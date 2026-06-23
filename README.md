@@ -61,7 +61,7 @@ Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operat
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-16A34A?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -91,7 +91,7 @@ Finvexis AI is a Multi-Agent Business Intelligence Platform that enables organiz
 ### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-16A34A?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-2962FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sentence_Transformers-009688?style=flat-square"/>
