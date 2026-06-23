@@ -47,7 +47,7 @@ Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operat
 
 ---
 
-# Featured Projects
+# Projects
 
 ## Finvexis AI – Multi-Agent Business Intelligence Platform
 
